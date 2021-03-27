@@ -1,4 +1,4 @@
 package com.company;
 
-public class New {
+public class New {nmnm
 }
